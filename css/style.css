@@ -20,10 +20,10 @@ background-size: cover;
 }
 
 h1{
-font-family: 'Shadows Into Light', cursive;
-color: white;
-margin-left: 10px;
-font-size: 60px;
+font-family: 'Shadows Into Light', Helvetica,Futura,Arial,Verdana,sans-serif;
+color: black;
+margin-left: 8px;
+font-size: 30px;
 text-align: center; 
 }
 
@@ -97,7 +97,7 @@ height: 70px;
 background: maroon;
 float: left;
 margin-top: 20px;
-border-radius: 10px;
+border-radius: 30px;
 margin-bottom: 20px;
 }
 
@@ -105,7 +105,7 @@ p{
 
 	font-size: 15px;
 	font-weight: bolder;
-	line-height: 24px;
+	line-height: 25px;
 	padding: 10px;
 	text-align: justify;
 }
